@@ -14,7 +14,7 @@ add it to your `composer.json` file:
 ```json
 {
     "require": {
-        "teaandcode/omnipay-worldpay-xml": "~1.0"
+        "jamss/omnipay-worldpay-xml": "~1.0"
     }
 }
 ```
@@ -46,5 +46,5 @@ project, or ask more detailed questions, there is also a
 subscribe to.
 
 If you believe you have found a bug, please report it using the
-[issue tracker](https://github.com/teaandcode/omnipay-worldpay-xml/issues), or
+[issue tracker](https://github.com/jamss/omnipay-worldpay-xml/issues), or
 better yet, fork the library and submit a pull request.
